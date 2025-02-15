@@ -84,3 +84,5 @@ def process_frame(image):
 
     cv2.putText(image, feedback, (10, 50), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 0, 0), 2)
     return image, feedback
+
+

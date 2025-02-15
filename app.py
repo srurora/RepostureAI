@@ -181,3 +181,4 @@ if st.session_state.webcam_active:
 
     cap.release()
     cv2.destroyAllWindows()
+
