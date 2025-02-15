@@ -48,7 +48,7 @@ import streamlit as st
 import google.generativeai as genai
 
 # Set up Gemini API Key
-genai.configure(api_key="AIzaSyCzHdLklEwSQFpadyyStCDZdn61PR0XxJc")
+genai.configure(api_key="")
 
 def get_workout_recommendation(prompt):
     """Send prompt to Gemini API and return response."""
