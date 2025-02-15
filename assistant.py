@@ -40,4 +40,4 @@ if submitted:
     # Display AI-generated workout
     st.subheader("🏋️‍♂️ Your Personalized Workout Plan")
     st.write(response)
-    
+ 
